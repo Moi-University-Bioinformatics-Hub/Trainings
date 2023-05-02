@@ -1,5 +1,5 @@
 # PEER-TO-PEER skill transfer
-The peer-to-peer training is aimed at increasing bioiformatics knowledge sharing between experts and novices.The program will include bioinformatics training on various topics.
+The peer-to-peer training is aimed at increasing bioinformatics knowledge sharing between experts and novices.The program will include bioinformatics training on various topics.
 We will conduct a pilot of the programming in the month of June and July with two meet-ups each week.
 ## Learning outcomes
 ## Curriculum
