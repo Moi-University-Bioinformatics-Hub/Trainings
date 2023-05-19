@@ -5,12 +5,9 @@ We will conduct a pilot of the programming in the month of June and July with tw
 ## Curriculum
 The pilot programme will include trainings on the following topics:
 * Introduction to Bioinformatics
-* Genomics 
-* NGS Technologies
-* Bioinformatics Database
+* Genomics & NGS Technologies
 * Unix Shell
 * Git and Github
-* R programming
 * RNA Seq analysis demo(Galaxy & Terminal)
 
 ## Schedule
