@@ -19,18 +19,12 @@ The pilot programme will include trainings on the following topics:
 | ----------- | ----------- |--------- |
 |5th June    | Introduction to Bioinformatics | Parcelli |
 |7th June    | Genomics & NGS technologies | Collins |
-|12th June    |Bioinformatics Database | TBC |
+|12th June    | Unix  | TBC |
 |14th June    | Unix  | TBC |
 |19th June    | Unix | TBC |
-|21st June    | Unix | TBC |
+|21st June    | Hands on Unix - Quality analysis|
 |26th June    | Git and Github | TBC |
-|3rd July    | R programming | TBC |
-|5th July    | R programming | TBC|
-|10th July   | R programming | TBC |
-|12th July   | R programming | TBC |
-|17th July    | RNA Seq Galaxy |TBC |
-|19th July   | Hands on RNA-Seq |TBC |
-|24th  July   | Wrap-up | TBC |
+|3rd July    | Wrap-up | TBC |
 
 
 ```
